@@ -2,7 +2,7 @@
 ## Project EHG
 一款的有关汉服同袍的剧情向游戏
 
-https://project-ehg.tk/
+[官方网站](https://project-ehg.tk/ "点击进入")
 
 ## 我的世界创作部
 **废弃中**
